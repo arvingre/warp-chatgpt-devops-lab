@@ -1,0 +1,3 @@
+# Docker MCP Server (可选)
+
+注：shell MCP 已可覆盖 docker 命令，此目录保留用于独立 Docker MCP server 实现。
